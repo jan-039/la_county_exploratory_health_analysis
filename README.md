@@ -67,7 +67,17 @@ The notebook is organized as a report:
 
 ## Key Findings
 
-_Add a short summary of the findings from sections 6 to 8 of the notebook once they are written._
+Question 1: Which measures are most strongly related to fair or poor health across cities?
+
+Across 78 cities and unincorporated areas, median household income showed the strongest relationship with fair or poor health (r = -0.86), followed by the share of residents below 200% of the poverty level (r = 0.82). Among the education measures, the share of adults without a high school diploma (r = 0.80) and the share with a bachelor's degree or higher (r = -0.78) were nearly as strong, while some college showed only a weak relationship (r = -0.20).
+
+These measures also overlap heavily with one another. For example, less than high school and bachelor's or higher correlate at r = -0.88, and the 100% and 200% poverty rates correlate at r = 0.99. Because the measures move together, this analysis cannot separate their individual contributions.
+
+Question 2: Do the same relationships hold across Los Angeles neighborhoods?
+
+The direction of every relationship is the same across neighborhoods, but the education correlations are weaker (less than high school r = 0.65 vs. 0.80 in cities; bachelor's or higher r = -0.59 vs. -0.78). Poverty and income remain strong (200% poverty r = 0.79; median household income r = -0.77). Education and poverty overlap even more in neighborhoods than in cities (less than high school and 200% poverty r = 0.85).
+
+Neighborhoods also have a higher and more varied share of residents in fair or poor health (average 14.7%, range 3.9% to 35.0%) than cities (average 12.2%, range 3.8% to 20.1%).
 
 ## Limitations
 
