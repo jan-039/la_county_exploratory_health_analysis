@@ -44,6 +44,9 @@ Rows in this dataset describe the same people at different geographic scales, so
 
 Because the neighborhoods overlap with the City of Los Angeles row, they are analyzed separately instead of being pooled with the cities. Incorporated cities and unincorporated areas together account for roughly 93% to 96% of county totals, so some communities are not in the data.
 
+> [!NOTE]
+> The primary analysis combines incorporated cities and unincorporated areas (78 rows, with the City of Los Angeles as one row). The secondary analysis uses the 74 neighborhoods.
+
 ## Project Structure
 
 The notebook is organized as a report:
@@ -86,6 +89,7 @@ Neighborhoods also have a higher and more varied share of residents in fair or p
 - **Ecological data.** Each row is a geography, not a person, so associations describe communities and do not necessarily apply to individuals. Correlation does not establish causation.
 - **Small samples and overlapping predictors.** Each dataset has under 100 rows. The education measures are mutually exclusive categories, and education, income and poverty are strongly correlated with each other.
 - **Missing values.** `Edu_LessHS_Pct` is missing for one row in each dataset.
+- **No adjustment for overlapping measures.** The correlations were not adjusted for one another, so the education correlations may partly reflect income and poverty (and the reverse). This is because communities with lower education tend to also have lower incomes and higher poverty. They show association and not independent effects.
 
 ## How to Run
 
