@@ -8,7 +8,7 @@ This project is a revision of an earlier analysis completed through a collaborat
 
 **Question 1 (Primary Analysis): Which measures are most strongly related to fair or poor health across cities?**
 
-**Question 2: Do the same relationships hold across Los Angeles neighborhoods?**
+**Question 2 (Secondary Analysis): Do the same relationships hold across Los Angeles neighborhoods?**
 
 ## Data
 
