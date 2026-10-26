@@ -6,14 +6,9 @@ This project is a revision of an earlier analysis completed through a collaborat
 
 ## Research Questions
 
-**Primary analysis: incorporated cities**
-1. Which measures of educational attainment among adults 25 and older (less than high school, high school graduate, some college, bachelor's degree or higher) are most strongly associated with the percentage of adults reporting fair or poor health across LA County incorporated cities?
-2. Does the relationship persist after accounting for differences in median household income and poverty (below 100% and 200% of the Federal Poverty Level)?
+**Question 1 (Primary Analysis): Which measures are most strongly related to fair or poor health across cities?**
 
-**Secondary analysis: Los Angeles City neighborhoods**
-
-3. Do the same education measures show similar associations with fair or poor self-rated health across Los Angeles City neighborhoods?
-4. Are the strength and direction of these associations, before and after accounting for income and poverty, consistent between the neighborhood analysis and the incorporated-city analysis?
+**Question 2: Do the same relationships hold across Los Angeles neighborhoods?**
 
 ## Data
 
